@@ -1,0 +1,4 @@
+Jugador: Wolf | Puntos jugador: 2 | Puntos computadora: 0 | Resultado: Ganó el jugador
+Jugador: Wolf | Puntos jugador: 0 | Puntos computadora: 1 | Resultado: Ganó la computadora
+Jugador: Wolf | Puntos jugador: 2 | Puntos computadora: 1 | Resultado: Ganó el jugador
+Jugador: Wolf | Puntos jugador: 6 | Puntos computadora: 5 | Resultado: Ganó el jugador

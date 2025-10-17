@@ -1,0 +1,1 @@
+Jugador: Marcos | Puntos jugador: 1 | Puntos computadora: 0 | Resultado: Ganó el jugador
