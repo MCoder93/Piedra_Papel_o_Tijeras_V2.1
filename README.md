@@ -1,4 +1,4 @@
-Proyecto en Python: Piedra, Papel o Tijeras - Versión Mejorada 'V2.0'
+Proyecto en Python: Piedra, Papel o Tijeras - Versión Mejorada 'V2.1'
 
 Este repositorio contiene una versión mejorada del clásico juego Piedra, Papel o Tijeras, desarrollado en Python como parte 
 de mi proceso de aprendizaje y práctica. A diferencia de la versión anterior, esta incluye funcionalidades que enriquecen la experiencia del usuario:
